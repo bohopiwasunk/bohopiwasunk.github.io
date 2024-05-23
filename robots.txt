@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohopiwasunk.github.io/sitemap.xml
